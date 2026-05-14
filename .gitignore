@@ -18,3 +18,6 @@ __pycache__/
 
 # Test / coverage
 .pytest_cache/
+
+# no csv porque son grandes
+.csv
