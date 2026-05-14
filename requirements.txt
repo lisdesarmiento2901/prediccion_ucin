@@ -1,0 +1,13 @@
+pandas
+numpy
+matplotlib
+seaborn
+scikit-learn
+ipykernel
+pyspark
+xgboost
+np
+pd
+os
+glob
+xgboost
